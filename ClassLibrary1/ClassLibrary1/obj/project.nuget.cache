@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0Et3g9thjqmZqAC0PaYKxJQGV6BLbaKDPm9xkkI2rkkVHM8S0L9o0i106V9fb8AFDVJpxSs++xpk7/UiNIkSw==",
+  "success": true,
+  "projectFilePath": "D:\\שלום לימודים\\שנה ג\\סמסטר א\\C#\\shalom\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shalo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
